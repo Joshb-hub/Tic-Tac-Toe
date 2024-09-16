@@ -2,6 +2,11 @@
 
 ## Overview
 This project implements a simple **Tic-Tac-Toe** game using HTML, CSS, and JavaScript. The game allows two players to take turns playing on a 3x3 grid until one player wins by forming a row, column, or diagonal of matching symbols, or until the game ends in a draw.
+
+## Screenshots
+![TicTacToe Screenshot](Screenshot%202024-09-17%20045413.png)
+![TicTacToe Screenshot](Screenshot%202024-09-17%20045428.png)
+
 ## Reference
 Refered from Apna College https://github.com/shradha-khapra/JavaScriptSeries/tree/main/TicTacToe
 
