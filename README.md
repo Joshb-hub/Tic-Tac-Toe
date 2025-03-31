@@ -2,6 +2,8 @@
 
 ## Overview
 This project implements a simple **Tic-Tac-Toe** game using HTML, CSS, and JavaScript. The game allows two players to take turns playing on a 3x3 grid until one player wins by forming a row, column, or diagonal of matching symbols, or until the game ends in a draw.
+## 🚀 Live Demo
+[Click here to play Tic-Tac-Toe!](https://joshb-hub.github.io/Tic-Tac-Toe/)
 
 ## Screenshots
 ![TicTacToe Screenshot](Screenshot%202025-04-01%20014228.png)
@@ -18,6 +20,7 @@ Refered from Apna College https://github.com/shradha-khapra/JavaScriptSeries/tre
 - Winner detection for all possible win patterns (rows, columns, diagonals).
 - Draw detection when all cells are filled with no winner.
 - Easy-to-use reset button to start a new game.
+- Can start a new game after result declaration.
 - Simple and clean user interface.
 
 ## How to Play
