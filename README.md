@@ -57,12 +57,8 @@ You can run this game locally by simply opening the HTML file in your browser. N
 - **CSS**: For styling the layout and design.
 - **JavaScript**: For handling game logic, player interactions, and dynamic updates.
 
-## Future Enhancements
 
-- Add a single-player mode against an AI.
-- Implement a scoring system to track multiple game rounds.
-- Improve mobile responsiveness for better gameplay on smaller devices.
-
+## Cloning the repository
 ```bash
 git clone https://github.com/Joshb-hub/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
